@@ -1,3 +1,2 @@
 # mousejitter
-move the mouse to prevent idle
-moves nowhere every 60 seconds
+Moves the mouse to prevent idle. It moves nowhere (0, 0) position every 60 seconds.
